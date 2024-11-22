@@ -41,7 +41,8 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 
 | Captura | Descripción | 
 |:-------------:|:---------------|
-| <img src="img/message.PNG"  width="300" height="100" style="margin-bottom: 5px;"> |_ChatView administra y muestra los mensajes en un ListView.builder, con burbujas diferenciadas según el remitente. Incluye un campo de texto para enviar nuevos mensajes.|
+![chatview](https://github.com/user-attachments/assets/e0903d09-3a96-4d57-b304-bfe4099dcb17)
+_ChatView administra y muestra los mensajes en un ListView.builder, con burbujas diferenciadas según el remitente. Incluye un campo de texto para enviar nuevos mensajes.|
 | <img src="img/myMessage.PNG"  width="300" height="100" style="margin-bottom: 5px;"> |MyMessageBubble estiliza los mensajes enviados por el usuario. Utiliza el color primario del tema como fondo y texto blanco para garantizar la legibilidad.|
 | <img src="img/herMessage.PNG"  width="300" height="100" style="margin-bottom: 5px;"> |OtherMessageBubble muestra mensajes de otros participantes en el chat. Utiliza un diseño limpio con un color secundario y márgenes adecuados para separar los mensajes.|
 | <img src="img/herMessage.PNG"  width="300" height="100" style="margin-bottom: 5px;"> |_ImageBubble muestra imágenes en el chat con bordes redondeados y un diseño responsivo. Incluye un indicador de carga para mejorar la experiencia de usuario.|
