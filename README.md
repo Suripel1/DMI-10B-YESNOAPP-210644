@@ -58,5 +58,6 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 
 ## Resultados
 <br>
-![campura2_suri](https://github.com/user-attachments/assets/964664ff-8300-4c84-997e-5b548c0af777)
+
+![campura2_suri](https://github.com/user-attachments/assets/f0e21dd8-b7b4-41fc-83dd-00e94474fad7)
 
